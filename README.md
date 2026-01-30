@@ -3,9 +3,13 @@
 A premium, full-stack **Task Manager Application** built to help users organize their daily goals efficiently. Featuring a modern "Dark Mode" UI, secure JWT authentication, and a robust Spring Boot backend.
 
 # Task Manager Dashboard
-< img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/038872f5-1dac-4dc2-ab9c-22e4c4c1e691" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/038872f5-1dac-4dc2-ab9c-22e4c4c1e691" />
+
+---
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94ea565a-d5d7-4d21-a434-d924449253f8" />
+
+---
 
 <img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/7a58cd5b-268f-4ee8-94cc-7931ba4874c4" />
 
